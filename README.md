@@ -5,7 +5,7 @@ This projet is made by Luis ALBA SANCHEZ, a bio-informatic student at EFREI Pari
 
 The objectif of this project is to make an analysis from any dataset provided by the governement from this plateforme : www.data.gouv.fr
 I have choosen this dataset : 
-thttps://data.ameli.fr/explore/dataset/effectifs/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=false
+https://data.ameli.fr/explore/dataset/effectifs/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=false
 
 from this page :
 https://www.data.gouv.fr/fr/datasets/effectif-de-patients-par-pathologie-sexe-classe-dage-et-territoire-departement-region/
